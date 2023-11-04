@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://cutewallpaper.org/25/animated-matrix-gif-wallpaper/matrix-521dd-gifs-81db7-renkli-dcc3e-duvar-a47c1-duvar-bd4a3-gifler-1c985-e%C4%9Fitim.gif" align="center" style="width: 100%" />
+</div>
 <h1 align="center">Hi 👋, I'm Emin Emir ARSLAN</h1>
 <h3 align="center">Merhaba Ben Orta Okul öğrencisiyim ve Yazılıma ilgi duyuyorum.</h3>
 
